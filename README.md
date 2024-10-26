@@ -1,59 +1,64 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## SOLAR INTELLIGENCE PREDICTIVE MODELS FOR POWER GENERATION AND RADIATION
+
+## Small description 
+
+The Solar Intelligence system uses machine learning algorithms to forecast solar radiation and power generation. It integrates data from historical solar radiation records, real-time sensor readings, and weather forecasts to identify patterns and relationships. This enables highly accurate predictions of future solar radiation and energy output
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The efficient integration of solar energy into the power grid requires accurate regression of solar power generation and radiation levels. This work explores the development of "Solar Intelligence" - a system utilizing machine learning-based predictive models. 
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+
+1. Data Pre-processing
+
+2. Data Analysis of Visualization
+
+3. ARD Regression Algorithm
+
+4. Decision Tree Regression Algorithm 
+
+5. Ridge Regressor Algorithm
+
+6. Random Forest Regressor Algorithm
+
+7. Deployment
+
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+1. Software Requirements:
+
+Operating System 		: Windows
+
+Tool   			: Anaconda with Jupyter Notebook
+
+3. Hardware requirements:
+
+Processor   		: Pentium IV/III
+
+Hard disk   		: minimum 80 GB
+
+RAM        		: minimum 2 GB
+
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
-
+![image](https://github.com/user-attachments/assets/030358b4-00d8-4d54-aab1-0e40dbe3625f)
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
-
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
-
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+![image](https://github.com/user-attachments/assets/05c983ac-fb45-431b-98bd-b15f3e5a9b59)
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+Optimization of Solar Power Systems: The development and application of Solar Intelligence Predictive Models for power generation and radiation have proven invaluable in enhancing the performance and efficiency of solar power systems.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+Informed Decision-Making: Accurate predictions enable energy operators to make informed decisions regarding energy storage, load balancing, and grid integration, ultimately improving the overall reliability and sustainability of solar energy.
+
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
+[1]	 Zhang, H., et al. (2020). Hybrid Model for Solar Radiation Forecasting Using Deep Learning Techniques. IEEE Access.
+[2]	  Rodríguez-Gallegos, C. D., et al. (2021). Machine Learning for Solar Energy Prediction: Application and Challenges. Journal of Renewable Energy Research.
+[3]	  Zhao, L., et al. (2019). Short-Term Solar Power Forecasting Using a Hybrid Deep Learning Model. Renewable Energy.
 
 
 
